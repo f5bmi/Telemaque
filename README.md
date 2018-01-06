@@ -1,2 +1,2 @@
 # Telemaque
- Current, voltage, temperature, forward and reverse signal conditionning before processing by Mentor
+ Current, voltage, temperature, forward and reverse signals conditioning before processing by Mentor
