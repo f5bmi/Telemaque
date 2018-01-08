@@ -1,0 +1,12 @@
+(fp_lib_table
+  (lib (name Capacitors_SMD)(type KiCad)(uri "$(KISYSMOD)/Capacitors_SMD.pretty")(options "")(descr ""))
+  (lib (name Connectors_Molex)(type KiCad)(uri "$(KISYSMOD)/Connectors_Molex.pretty")(options "")(descr ""))
+  (lib (name Resistors_SMD)(type KiCad)(uri "$(KISYSMOD)/Resistors_SMD.pretty")(options "")(descr ""))
+  (lib (name Capacitors_Tantalum_SMD)(type KiCad)(uri "$(KISYSMOD)/Capacitors_Tantalum_SMD.pretty")(options "")(descr ""))
+  (lib (name Connectors)(type KiCad)(uri "$(KISYSMOD)/Connectors.pretty")(options "")(descr ""))
+  (lib (name Diodes_SMD)(type KiCad)(uri "$(KISYSMOD)/Diodes_SMD.pretty")(options "")(descr ""))
+  (lib (name Inductors_SMD)(type KiCad)(uri "$(KISYSMOD)/Inductors_SMD.pretty")(options "")(descr ""))
+  (lib (name Housings_SOIC)(type KiCad)(uri "$(KISYSMOD)/Housings_SOIC.pretty")(options "")(descr ""))
+  (lib (name Mounting_Holes)(type KiCad)(uri "$(KISYSMOD)/Mounting_Holes.pretty")(options "")(descr ""))
+  (lib (name SMA_PINS)(type KiCad)(uri "$(KIPRJMOD)/SMA_PINS.pretty")(options "")(descr ""))
+)
