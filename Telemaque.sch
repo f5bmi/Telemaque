@@ -14,8 +14,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Telemaque"
-Date "2018-01-08"
-Rev "beta 1.0"
+Date "2018-03-03"
+Rev " 1.1"
 Comp "F5BMI"
 Comment1 "adding U7 to increase LM35 level"
 Comment2 ""
