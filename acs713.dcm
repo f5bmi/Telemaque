@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP ACS713
-D current sensor
-K voltage current sensor
-$ENDCMP
-#
-#End Doc Library
